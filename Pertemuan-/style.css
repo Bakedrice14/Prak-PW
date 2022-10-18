@@ -1,0 +1,10 @@
+body{
+    padding: 1.4em;
+    position: relative;
+    text-align: center;
+}
+.paragraph{
+    text-align: justify;
+    padding-right: 1em;
+    padding:0, 1.2em;
+}
